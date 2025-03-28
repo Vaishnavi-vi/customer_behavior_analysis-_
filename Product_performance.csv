@@ -1,0 +1,101 @@
+ProductID,ProductName,Rating,product_performance_status
+1,Running Shoes,4,Others
+1,Running Shoes,3,Product Performance
+1,Running Shoes,5,Others
+1,Running Shoes,4,Others
+2,Fitness Tracker,2,Others
+2,Fitness Tracker,4,Others
+2,Fitness Tracker,4,Others
+2,Fitness Tracker,3,Product Performance
+2,Fitness Tracker,5,Others
+2,Fitness Tracker,4,Others
+2,Fitness Tracker,3,Product Performance
+3,Yoga Mat,1,Product Performance
+3,Yoga Mat,5,Others
+3,Yoga Mat,3,Others
+3,Yoga Mat,5,Others
+3,Yoga Mat,4,Others
+3,Yoga Mat,5,Others
+3,Yoga Mat,3,Others
+4,Dumbbells,3,Others
+4,Dumbbells,3,Product Performance
+4,Dumbbells,1,Product Performance
+4,Dumbbells,3,Others
+4,Dumbbells,5,Others
+5,Soccer Ball,4,Others
+5,Soccer Ball,4,Others
+5,Soccer Ball,4,Others
+6,Tennis Racket,5,Others
+6,Tennis Racket,4,Others
+6,Tennis Racket,1,Product Performance
+6,Tennis Racket,4,Others
+6,Tennis Racket,3,Others
+6,Tennis Racket,5,Others
+6,Tennis Racket,5,Others
+7,Basketball,2,Others
+7,Basketball,3,Others
+7,Basketball,3,Others
+8,Football Helmet,5,Others
+8,Football Helmet,5,Others
+8,Football Helmet,5,Others
+9,Baseball Glove,3,Others
+9,Baseball Glove,4,Others
+9,Baseball Glove,3,Others
+9,Baseball Glove,3,Others
+9,Baseball Glove,4,Others
+10,Golf Clubs,2,Product Performance
+10,Golf Clubs,5,Others
+10,Golf Clubs,4,Others
+10,Golf Clubs,3,Others
+11,Ski Boots,5,Others
+11,Ski Boots,4,Others
+11,Ski Boots,4,Others
+11,Ski Boots,3,Others
+11,Ski Boots,4,Others
+11,Ski Boots,4,Others
+12,Ice Skates,3,Product Performance
+12,Ice Skates,3,Others
+13,Swim Goggles,4,Others
+13,Swim Goggles,4,Others
+13,Swim Goggles,4,Others
+13,Swim Goggles,3,Product Performance
+13,Swim Goggles,4,Others
+13,Swim Goggles,4,Others
+13,Swim Goggles,3,Product Performance
+13,Swim Goggles,3,Others
+13,Swim Goggles,4,Others
+15,Climbing Rope,3,Others
+15,Climbing Rope,2,Others
+15,Climbing Rope,5,Others
+15,Climbing Rope,5,Others
+15,Climbing Rope,4,Others
+15,Climbing Rope,5,Others
+16,Kayak,3,Product Performance
+16,Kayak,4,Others
+16,Kayak,4,Others
+16,Kayak,3,Others
+16,Kayak,3,Product Performance
+16,Kayak,4,Others
+16,Kayak,4,Others
+16,Kayak,3,Product Performance
+16,Kayak,4,Others
+16,Kayak,2,Product Performance
+17,Surfboard,4,Others
+17,Surfboard,3,Product Performance
+17,Surfboard,4,Others
+17,Surfboard,5,Others
+17,Surfboard,5,Others
+17,Surfboard,5,Others
+17,Surfboard,3,Others
+17,Surfboard,2,Product Performance
+17,Surfboard,4,Others
+18,Volleyball,3,Product Performance
+18,Volleyball,4,Others
+18,Volleyball,5,Others
+19,Hockey Stick,5,Others
+19,Hockey Stick,4,Others
+19,Hockey Stick,4,Others
+19,Hockey Stick,5,Others
+19,Hockey Stick,4,Others
+20,Boxing Gloves,4,Others
+20,Boxing Gloves,4,Others
