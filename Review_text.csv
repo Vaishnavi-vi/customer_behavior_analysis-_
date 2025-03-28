@@ -1,0 +1,101 @@
+ProductID,ProductName,Rating,Reviewtext
+1,Running Shoes,4,Customer  support  was  very  helpful.
+1,Running Shoes,3,"Average  experience,  nothing  special."
+1,Running Shoes,5,Customer  support  was  very  helpful.
+1,Running Shoes,4,The  quality  is  top-notch.
+2,Fitness Tracker,2,Product  did    not  meet  my  expectations.
+2,Fitness Tracker,4,Five  stars  for  the  quick  delivery.
+2,Fitness Tracker,4,"Good  quality,  but  could  be  cheaper."
+2,Fitness Tracker,3,"Average  experience,  nothing  special."
+2,Fitness Tracker,5,Five  stars    for  the  quick  delivery.
+2,Fitness Tracker,4,Shipping  was  fast  and  the  item  was  well-packaged.
+2,Fitness Tracker,3,Not  worth  the  money.
+3,Yoga Mat,1,Not  worth  the  money.
+3,Yoga Mat,5,Exceeded  my  expectations!
+3,Yoga Mat,3,The  quality  is  top-notch.
+3,Yoga Mat,5,"Excellent  product,  highly  recommend!"
+3,Yoga Mat,4,The  quality  is  top-notch.
+3,Yoga Mat,5,Shipping  was  fast  and  the  item  was  well-packaged.
+3,Yoga Mat,3,"Average  experience,  nothing    special."
+4,Dumbbells,3,"Good  quality,  but  could  be    cheaper."
+4,Dumbbells,3,Not  worth  the  money.
+4,Dumbbells,1,The  product  stopped  working  after  a  month.
+4,Dumbbells,3,"I  love  this    product,  will  buy  again!"
+4,Dumbbells,5,The    build  quality  is  impressive.
+5,Soccer Ball,4,Five  stars  for  the  quick  delivery.
+5,Soccer Ball,4,"Great  purchase,    very  satisfied."
+5,Soccer Ball,4,Shipping  was  fast    and  the  item  was  well-packaged.
+6,Tennis Racket,5,"Excellent  product,  highly  recommend!"
+6,Tennis Racket,4,The  quality  is  top-notch.
+6,Tennis Racket,1,I  had  a  bad  experience  with  this  product.
+6,Tennis Racket,4,Five  stars  for  the  quick  delivery.
+6,Tennis Racket,3,"The  product  is  okay,  but  the  instructions  were  unclear."
+6,Tennis Racket,5,"Great  purchase,  very  satisfied."
+6,Tennis Racket,5,Five  stars  for  the  quick  delivery.
+7,Basketball,2,"The  product    is  okay,  but  the  instructions  were  unclear."
+7,Basketball,3,"Good  quality,  but  could    be  cheaper."
+7,Basketball,3,"The  product  is  okay,  but  the  instructions  were  unclear."
+8,Football Helmet,5,The  quality    is  top-notch.
+8,Football Helmet,5,"Excellent  product,  highly  recommend!"
+8,Football Helmet,5,Five  stars  for  the  quick  delivery.
+9,Baseball Glove,3,Customer  support  was    very  helpful.
+9,Baseball Glove,4,"Great  purchase,  very  satisfied."
+9,Baseball Glove,3,"The  product  is  okay,  but  the  instructions  were  unclear."
+9,Baseball Glove,3,"Good  quality,  but  could  be  cheaper."
+9,Baseball Glove,4,The  build  quality  is  impressive.
+10,Golf Clubs,2,Disappointed  with  the  performance.
+10,Golf Clubs,5,Five  stars  for  the  quick  delivery.
+10,Golf Clubs,4,"Great  purchase,  very  satisfied."
+10,Golf Clubs,3,Shipping  was  fast  and  the  item  was  well-packaged.
+11,Ski Boots,5,"Great  purchase,  very  satisfied."
+11,Ski Boots,4,"I  love  this  product,  will  buy  again!"
+11,Ski Boots,4,Five  stars  for  the  quick  delivery.
+11,Ski Boots,3,"Good  quality,  but  could  be  cheaper."
+11,Ski Boots,4,Customer  support  was  very  helpful.
+11,Ski Boots,4,The  quality  is    top-notch.
+12,Ice Skates,3,"Average  experience,  nothing  special."
+12,Ice Skates,3,Five  stars  for  the  quick  delivery.
+13,Swim Goggles,4,Five  stars  for  the  quick  delivery.
+13,Swim Goggles,4,Five  stars  for  the  quick  delivery.
+13,Swim Goggles,4,"I  love  this  product,  will  buy  again!"
+13,Swim Goggles,3,"Average  experience,  nothing  special."
+13,Swim Goggles,4,Shipping    was  fast  and  the  item  was  well-packaged.
+13,Swim Goggles,4,"I  love  this  product,  will  buy  again!"
+13,Swim Goggles,3,Not  worth  the  money.
+13,Swim Goggles,3,"Good  quality,  but  could  be  cheaper."
+13,Swim Goggles,4,The  quality  is  top-notch.
+15,Climbing Rope,3,"Good  quality,  but  could  be  cheaper."
+15,Climbing Rope,2,The  product  arrived    late.
+15,Climbing Rope,5,"Excellent  product,  highly  recommend!"
+15,Climbing Rope,5,Five  stars  for  the  quick  delivery.
+15,Climbing Rope,4,Exceeded  my    expectations!
+15,Climbing Rope,5,Amazing  value  for  the  price.
+16,Kayak,3,Not  worth  the  money.
+16,Kayak,4,"Great  purchase,  very  satisfied."
+16,Kayak,4,"I  love  this  product,  will  buy    again!"
+16,Kayak,3,"Great  purchase,  very  satisfied."
+16,Kayak,3,Not  worth  the  money.
+16,Kayak,4,Shipping  was  fast  and  the  item  was  well-packaged.
+16,Kayak,4,The  quality  is  top-notch.
+16,Kayak,3,Not  worth  the  money.
+16,Kayak,4,Shipping  was  fast  and  the  item  was  well-packaged.
+16,Kayak,2,"Average  experience,  nothing  special."
+17,Surfboard,4,Five  stars  for  the  quick  delivery.
+17,Surfboard,3,"Average  experience,  nothing  special."
+17,Surfboard,4,Five  stars  for  the  quick  delivery.
+17,Surfboard,5,"Excellent  product,  highly  recommend!"
+17,Surfboard,5,"Excellent  product,    highly  recommend!"
+17,Surfboard,5,"Great  purchase,  very  satisfied."
+17,Surfboard,3,Not    worth  the  money.
+17,Surfboard,2,"Average  experience,  nothing  special."
+17,Surfboard,4,Shipping  was  fast  and  the  item    was  well-packaged.
+18,Volleyball,3,"Average  experience,  nothing  special."
+18,Volleyball,4,Five  stars  for    the  quick  delivery.
+18,Volleyball,5,Five  stars  for  the  quick  delivery.
+19,Hockey Stick,5,The  quality  is    top-notch.
+19,Hockey Stick,4,Five  stars  for  the  quick  delivery.
+19,Hockey Stick,4,"Great  purchase,    very  satisfied."
+19,Hockey Stick,5,"I  love  this  product,  will  buy  again!"
+19,Hockey Stick,4,Exceeded  my  expectations!
+20,Boxing Gloves,4,"Good  quality,  but  could  be  cheaper."
+20,Boxing Gloves,4,Shipping  was  fast  and  the  item  was  well-packaged.
